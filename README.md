@@ -1,4 +1,4 @@
 # MyLeetCode
 Where I work hard on LeetCode...
 
-[![Leetcode Stats](https://leetcard.greenbeta/greenbeta)](https://leetcode.com/greenbeta)
+![Leetcode Stats](https://leetcard.greenbeta/greenbeta?theme=unicorn,ext=activity)
