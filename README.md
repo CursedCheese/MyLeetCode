@@ -1,4 +1,4 @@
 # MyLeetCode
 Where I work hard on LeetCode...
 
-![Leetcode Stats](https://leetcard.greenbeta/greenbeta?theme=unicorn)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
