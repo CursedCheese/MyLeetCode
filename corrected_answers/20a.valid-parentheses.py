@@ -8,10 +8,9 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        d = {'(':')', '{':'}', '[':']'}
-        
+        d = {'(':')', '[':']', '{':'}'}
         for char in s:
-            if char in d:
+            if char in d.keys():
                 stack.append(char)
             else:
                 if len(stack) == 0 or d[stack[-1]] != char:
