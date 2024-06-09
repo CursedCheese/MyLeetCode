@@ -27,5 +27,3 @@ class KthLargest:
 
 # @lc code=end
 
-
-
